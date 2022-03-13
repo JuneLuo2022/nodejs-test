@@ -32,7 +32,7 @@ var server = http.createServer(function(request, response){
 </head>
 <body>
     <h1>Node.js 初体验</h1>  
-    <h2>快来学习</h2>
+    <h2>快来一起学习吧！</h2>
 </body>
 </html>
     `)
